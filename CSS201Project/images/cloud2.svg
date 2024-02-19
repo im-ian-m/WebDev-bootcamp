@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="214.13112mm"
+   height="144.81596mm"
+   viewBox="0 0 214.13112 144.81597"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="cloud2.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.43982859"
+     inkscape:cx="394.47186"
+     inkscape:cy="284.20163"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="-6"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect340"
+     style="fill:#fcf8f8;stroke-width:0"
+     d="M 0,0 V 144.81596 H 214.13111 V 0 Z m 101.69922,1.424202 c 1.68307,-0.0013 3.39177,0.09835 5.12217,0.312643 27.68577,3.421556 39.76708,32.248677 39.76708,32.248677 0,0 16.08903,-9.355386 29.69948,-2.942973 13.61165,6.412417 18.12034,24.919926 18.12034,24.919926 0,0 17.61753,8.326357 17.61753,23.448181 0,15.145755 -18.62316,25.398454 -18.62316,25.398454 0,0 -1.01063,14.64327 -13.59193,21.98883 -12.58378,7.32164 -23.65902,4.88136 -23.65902,4.88136 l 0.003,0.009 c 0,0 -21.38894,15.62448 -62.41893,10.7673 -41.02898,-4.8811 -60.4051,-26.38185 -60.4051,-26.38185 0,0 -30.70764,-4.88089 -31.2105,-31.269924 -0.51765,-26.384234 12.58425,-36.646859 12.58425,-36.646859 0,0 -1.5038,-18.59114 15.10037,-26.872262 16.61155,-8.302649 27.18232,2.919202 27.18232,2.919202 0,0 19.46598,-22.760163 44.712,-22.780005 z" />
+</svg>
