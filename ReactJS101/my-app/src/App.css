@@ -1,0 +1,97 @@
+* {
+   box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #f8f8f8;
+  height: 100vh;
+  /* display: flex;
+  flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(254, 56, 56);
+  padding: 0 10%;
+}
+
+.header {
+  height: calc(2em * 2.34);
+  display: flex;
+  margin-right: auto;
+  justify-content: center;
+}
+
+.helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.header div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: calc(100vh - (2em * 2.34 + 71px + 50px));
+  padding-bottom: 50px;
+  gap: 50px;
+}
+
+.container > * {
+  padding: 0 20px;
+}
+
+ul {
+  margin: 0 auto;
+}
+
+li {
+  text-align: left;
+  margin-left: 40%;
+}
+
+img {
+  vertical-align: middle;
+  height: 96px;
+  width: 96px;
+}
+
+h1 {
+  display: inline-block;
+  /* text-transform: capitalize; */
+}
+
+.btnContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 100px);
+}
+
+.btn {
+  padding: 20px;
+  color: blue;
+  /* text-decoration: underline; */
+  background-color: black;
+  border: 1px solid blue;
+  outline: 3px solid blue;
+  border-radius: 10px;
+  background-image: radial-gradient(white, yellow);
+  font: inherit;
+  cursor: pointer;
+}
